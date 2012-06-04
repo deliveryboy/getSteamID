@@ -1,0 +1,28 @@
+getSteamID (STEAM) ...by pcwf-clan.de
+ by Markus "Br@tHering" Kwasnicki
+  LastUpdated: 2005-03-17
+
+
+INFO:
+ - SteamID, a Tool 2 get ya SteamID(s).
+   4 Win32, ActivePerl.
+ - Options/Switches:
+   -h Info.
+   -n NoGUI.
+   <FILE> Path 2 "Steam.log" file.
+
+
+HowTo:
+ - Iterate through all SteamIDs with the "Back&Next"-Buttons.
+ - Chosen element by one of the RadioButtonZ is immediately in the ClipBoard.
+ - If $this tool is 'Unable to open "Steam.log" file.', attach the correct path to the file as <ARGUMENT>.
+
+
+BUGz:
+ - No Command-Line-Switches available in the GUI.EXE-Version file.
+ - DOS-BOX appears behind the GUI-Application in the CMD.EXE-Version file.
+ - Please report BUGz.
+
+
+...
+
