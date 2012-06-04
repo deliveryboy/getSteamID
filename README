@@ -1,0 +1,9 @@
+Utility to parse Valve's Steam log file for the player's ID.
+
+With getSteamID it is possible to iterate over all Steam IDs from the STEAM platform, which were used on a local computer in the past. It provides an overview (parsing the Steam.log file for IDs) about users and offers additional features to handle the found tuple. For more information consider the included documentation.
+
+Supported by PCWF-Clan!
+
+Related resource:
+* http://www.steampowered.com/
+* http://www.efcikay.de/pcwf-clanpage/
